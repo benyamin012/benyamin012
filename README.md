@@ -1,41 +1,43 @@
-<h1 align="center">Hi there 👋, I'm Benyamin</h1>  
-<h3 align="center">A Front-End Developer</h3>  
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Coding GIF" />
+</div>
 
-I enjoy turning ideas into responsive, user-friendly websites and applications.  
+# 👋 Hi, I'm Benyamin
 
----
-
-## 🛠️ Skills  
-
-<p align="left">  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react-native" width="40" height="40"/>  
-</p>  
-
-- **HTML5 / CSS3 / JavaScript**  
-- **Bootstrap** (basic)  
-- **React.js** (learning & building projects)  
-- **React Native** (basic, exploring mobile development)  
+I'm a 16-year-old developer building my path to success.  
+Currently focused on **Front-End Development** and improving my **JavaScript** and **React** skills.
 
 ---
 
-## 📂 Projects  
-- 📝 **ToDo List App** – simple task manager built with JS  
-- 🌡️ **Temperature Converter** – convert between Celsius/Fahrenheit  
-- 🔑 **Login Page** – styled login form with validation  
-- 🛍️ **E-Commerce Website (in progress)** – shop project with product listing & auth  
+## 🚀 Projects
+
+### 🌤 [Weather App](https://github.com/benyamin012/Weather-App)
+A clean and modern weather application built using **HTML, CSS, JavaScript**, and **OpenWeather API**.
+
+### 🌡 [Temperature Converter](https://github.com/benyamin012/temperature-converter)
+A small and functional converter app to switch between **Celsius and Fahrenheit**, made with **pure JavaScript**.
 
 ---
 
-## 🎯 Current Focus  
-- Getting better at **React.js**  
-- Building more complete projects  
-- Learning modern front-end practices  
+## 🎯 Goal
+I’m working to become a **professional Front-End Developer**, then move toward building my **own creative apps and startup projects**.
 
 ---
 
-✨ Always learning, always coding. ✨  
+## 🛠 Skills & Tools
+- HTML / CSS / JavaScript  
+- API Integration  
+- Responsive Design  
+- Git & GitHub  
+- Problem Solving  
+- UI/UX Basics
+
+---
+
+## 📫 Contact
+📧 **[benyamin.bm7.m@gmail.com]**  
+💻 **GitHub:** [benyamin012](https://github.com/benyamin012)
+
+---
+
+⭐ *Every great developer starts small. I’m just getting started...*
