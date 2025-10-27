@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Coding GIF" />
-</div>
 
 # 👋 Hi, I'm Benyamin
 
@@ -9,6 +6,14 @@ Currently focused on **Front-End Development** and improving my **JavaScript** a
 
 ---
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Coding GIF" />
+</div>
+
+
+
+
+---
 ## 🚀 Projects
 
 ### 🌤 [Weather App](https://github.com/benyamin012/Weather-App)
