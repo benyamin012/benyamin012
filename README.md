@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Benyamin</h1>  
-<h3 align="center">A Front-End Developer with ~2 years of experience</h3>  
+<h3 align="center">A Front-End Developer</h3>  
 
 I enjoy turning ideas into responsive, user-friendly websites and applications.  
 
