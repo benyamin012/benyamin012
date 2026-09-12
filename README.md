@@ -108,7 +108,6 @@ I'm constantly working on improving both my technical skills and the way I build
 * 🧩 Better state management
 * 🏗️ Scalable frontend architecture
 * 🧠 Deeper JavaScript fundamentals
-* 📱 React Native
 * 🔌 Working with APIs and asynchronous data
 * ✨ Building cleaner and more maintainable UIs
 * 💼 Turning projects into real-world products
