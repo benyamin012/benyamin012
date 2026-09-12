@@ -79,6 +79,16 @@ A clean and responsive weather application built with **HTML, CSS, and JavaScrip
 🔗 **[View Project →](https://github.com/benyamin012/Weather-App)**
 
 ---
+### 🌤️ UI design
+
+A clean and responsive Ui design with them dark light.
+
+**Tech:**
+`HTML` `CSS` `JavaScript` 
+
+🔗 **[View Project →](https://github.com/benyamin012/Daraland-Best-UI-project)**
+
+---
 
 ### Like Twitter Project
 
