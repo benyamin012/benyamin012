@@ -118,23 +118,14 @@ Long term, I want to move beyond simply building interfaces and start creating *
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benyamin012\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benyamin012\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-</div>
-
----
 
 ## 📫 Connect With Me
 
 📧 **Email:** [benyamin.bm7.m@gmail.com](mailto:benyamin.bm7.m@gmail.com)
 
 💻 **GitHub:** [@benyamin012](https://github.com/benyamin012)
+
+💻 **Telegram:** [@benyamin012](@BM7_000)
 
 ---
 
