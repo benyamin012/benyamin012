@@ -125,7 +125,7 @@ Long term, I want to move beyond simply building interfaces and start creating *
 
 💻 **GitHub:** [@benyamin012](https://github.com/benyamin012)
 
-💻 **Telegram:** [@benyamin012](@BM7_000)
+💻 **Telegram:** [@BM7_000]
 
 ---
 
