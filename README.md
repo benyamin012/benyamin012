@@ -80,16 +80,13 @@ A clean and responsive weather application built with **HTML, CSS, and JavaScrip
 
 ---
 
-### 🌡️ Temperature Converter
+### Like Twitter Project
 
-A simple JavaScript application for converting temperatures between **Celsius and Fahrenheit**.
-
-Built as a small project to strengthen JavaScript fundamentals and DOM manipulation.
 
 **Tech:**
 `HTML` `CSS` `JavaScript`
 
-🔗 **[View Project →](https://github.com/benyamin012/temperature-converter)**
+🔗 **[View Project →](https://github.com/benyamin012/LikeTwitter_js_project)**
 
 ---
 
